@@ -43,3 +43,8 @@ footer{
     font-size: larger;
     font-style: italic;
 }
+
+h1{
+    padding: auto;
+    background-color: rgb(65, 39, 19);
+}
